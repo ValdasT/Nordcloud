@@ -1,0 +1,6 @@
+applications:
+    - name: nordCloud
+      random-route: true
+      memory: 128M
+      path: build/
+      buildpack: staticfile_buildpack
