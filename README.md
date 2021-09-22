@@ -26,7 +26,7 @@ Link stations​ are located at points ​(x, y)​ and have reach ​(r) ([x, y
 ## Setup project locally:
   - Clone git repository: 
   ```sh
-  $ git clone git@github.ibm.com:ValdasT/Nordcloud.git
+  $ git clone git@github.com:ValdasT/Nordcloud.git
   ```
   - Install all modules listed as dependencies in package.json:
   ```sh
